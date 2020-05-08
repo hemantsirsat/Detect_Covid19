@@ -1,1 +1,6 @@
 .DS_Store
+dataset
+docs
+CONTRIBUTING.md
+x.pickle
+y.pickle
